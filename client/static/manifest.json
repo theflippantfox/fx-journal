@@ -1,0 +1,7 @@
+{
+  "id": "fxtradebook-standalone",
+  "name": "FxTradeBook",
+  "shart_name": "FTB",
+  "start_url": "/",
+  "display": "standalone"
+}
